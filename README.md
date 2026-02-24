@@ -1,3 +1,20 @@
+![Screenshot](/art/pl.jpeg)
+
+<p align="center">
+   <a href="https://packagist.org/packages/spykapps/passwordless-login">
+    <img src="https://img.shields.io/packagist/v/spykapps/passwordless-login.svg?style=for-the-badge" alt="Packagist Version">
+   </a>
+   <a href="https://packagist.org/packages/spykapps/passwordless-login">
+    <img src="https://img.shields.io/packagist/dt/spykapps/passwordless-login.svg?style=for-the-badge" alt="Total Downloads">
+   </a>
+   <a href="https://laravel.com/docs/12.x"><img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel 12"></a>
+   <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php" alt="PHP 8.3"></a>
+   <a href="https://github.com/spykapps/passwordless-login/blob/main/LICENSE.md">
+     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License">
+   </a>
+</p>
+
+
 # Passwordless Login for Laravel
 
 A highly customizable, multilingual magic link authentication package for Laravel with bot/prefetch detection, rate limiting, conditional auth, and a comprehensive event system.
