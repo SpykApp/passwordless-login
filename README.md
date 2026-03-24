@@ -7,7 +7,7 @@
    <a href="https://packagist.org/packages/spykapps/passwordless-login">
     <img src="https://img.shields.io/packagist/dt/spykapps/passwordless-login.svg?style=for-the-badge" alt="Total Downloads">
    </a>
-   <a href="https://laravel.com/docs/12.x"><img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel 12"></a>
+   <a href="https://laravel.com/docs/13.x"><img src="https://img.shields.io/badge/Laravel-13.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel 13"></a>
    <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php" alt="PHP 8.3"></a>
    <a href="https://github.com/spykapps/passwordless-login/blob/main/LICENSE.md">
      <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License">
@@ -37,7 +37,7 @@ A highly customizable, multilingual magic link authentication package for Larave
 ## Requirements
 
 - PHP 8.1+
-- Laravel 10, 11, or 12
+- Laravel 10, 11, 12, or 13
 
 ## Installation
 
